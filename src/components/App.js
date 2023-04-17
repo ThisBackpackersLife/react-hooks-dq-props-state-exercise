@@ -1,5 +1,8 @@
 import React from "react";
 import HogBoss from "./HogBoss";
+// import offspring from "../data";
+
+//console.log(offspring)
 
 function App() {
   return (
